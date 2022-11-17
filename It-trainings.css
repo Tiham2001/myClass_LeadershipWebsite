@@ -1,0 +1,32 @@
+.first-image{
+  background-color:rgb(236, 173, 173);
+}
+.first-text{
+    padding-top:10%;
+    padding-bottom:10%;
+    padding-left:35%;
+    padding-right:0%;
+}
+.text-first{
+    font-size:4rem;
+    font-weight: 600;
+    font-family: 'Finlandica', sans-serif;
+}
+.text-first{
+    overflow: hidden;
+    border-right: 0.02em solid gray;
+    white-space: nowrap;
+    animation: typing 3s steps(50, end) forwards;
+  }
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 45% }
+  }
+     @keyframes blink {
+        from {
+          border-color: black;
+        }
+        to {
+          border-color: transparent;
+        }
+      }

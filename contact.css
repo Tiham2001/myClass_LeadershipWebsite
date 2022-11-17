@@ -1,0 +1,173 @@
+h1{
+    text-align:center;
+    padding-top:4%;
+    padding-bottom:4%;   
+}
+body{
+  background-image: url("https://wallpaperaccess.com/full/4407449.jpg");
+  background-repeat: no-repeat;
+  background-size: 200%;
+}
+.contactUs{
+  font-size: 3rem;
+  text-decoration:underline;
+  padding-top:2%;
+  padding-bottom:2%;
+}
+.dataOne{
+  font-size: 2rem;
+  padding-top:0px;
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+.cardsAva{
+  margin-left:40%;
+  margin-right:10%;
+  font-size: 2rem;
+  font-weight: 600;
+  text-decoration: underline;
+  padding-bottom:2%;
+}
+.book1{
+  font-size: 22px;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.under{
+  font-weight: 600;
+  font-size: 25px;
+}
+.booking{
+  padding-left:10%;
+  padding-right:10%;
+  text-align: center;
+}
+.consult{
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-decoration: underline;
+  padding-bottom: 0px;
+}
+.email{
+  font-size: 2rem;
+  padding-bottom:0px;
+  padding-top:2%;
+}
+.phone{
+  font-size: 2rem;
+  padding-bottom:0px;
+  padding-top:2%;
+}
+@media only screen and (max-width:800px)
+{
+  .dataOne{
+    padding-left:5%;
+    padding-right:5%;
+  }
+  body{
+    background-image: url("https://wallpaperaccess.com/full/4407449.jpg");
+    background-repeat: no-repeat;
+    background-size: 500%;
+  }
+  .cardsAva{
+    margin-left:20%;
+  }
+  .sixthPage{
+    padding-left:0px;
+    margin-left:0px;
+   }
+  .texting{
+    display: flex;
+    flex-direction: column;
+    padding-bottom:5%;
+  }
+  .flexingSix{
+    display: flex;
+    flex-direction: column;
+}
+.texting{
+    padding-top:5%;
+}
+.firstSecFlex{
+  display: flex;
+  flex-direction: column;
+}
+.main{
+  margin-left:20%;
+  margin-right:20%;
+  margin-top:5%;
+}
+.leadershipDevelopment{
+  font-size: 21.5px;
+}
+.course{
+  margin-left:28%;
+  margin-right:23%;
+}
+.thirdPage{
+  background-image: url("https://media.istockphoto.com/photos/background-khaki-green-olive-grunge-texture-vignette-matte-dirty-picture-id1268727652?b=1&k=20&m=1268727652&s=170667a&w=0&h=ag8U6kbPTuYQg6tVVOm1Xz6ED4WPURJbey7QCyDZrhk=");
+  background-repeat: no-repeat;
+  background-size: 150%;
+  
+}
+.cardsAva{
+  margin-left:10%;
+  margin-right:10%;
+}
+.thirdPageCards{
+  display: flex;
+  flex-direction: column;
+  padding-left:10%;
+}
+.thirdCard{
+  padding-bottom:5%;
+}
+.fourthPage{
+  padding-top:5%;
+  padding-bottom:3%;
+}
+.fifthPage{
+  display: flex;
+  flex-direction: column;
+  padding-left:13%;
+  padding-top:8%;
+  padding-bottom:5%;
+}
+.flexingSix{
+  display: flex;
+  flex-direction: column;
+}
+.texting{
+  padding-top:5%;
+}
+.secondPage{
+  background-repeat: no-repeat;
+  background-size: 220%;
+}
+.image{
+  width:80%;
+}
+.thirdPage{
+  background-size: 400%;;
+}
+.sixthPage{
+  padding-left:0px;
+  margin-left:0px;
+}
+.texting{
+  display: flex;
+  flex-direction: column;
+  padding-bottom:5%;
+}
+.book{
+  padding-left:8%;
+  padding-right:8%;
+  font-weight: 700;
+}
+.book1{
+  padding-left:8%;
+  padding-right:8%;
+  font-weight: 600;
+}
+}
